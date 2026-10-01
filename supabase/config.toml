@@ -1,2 +1,0 @@
-[functions.recover-password]
-verify_jwt = false
